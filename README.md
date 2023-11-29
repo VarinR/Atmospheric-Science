@@ -1,13 +1,26 @@
-# Atmospheric-Science
-Independent research project under the mentorship of Dr.Travis O'Brien
+# Atmospheric Science Research Project
 
-Goal - Study the drivers of precipitation in the Tropics.
+This repository contains an independent research project conducted under the mentorship of Dr. Travis O'Brien, focusing on the study of precipitation drivers in the Tropics.
 
-First Notebook
+## Project Goal
 
-1) In the first notebook we introduced the two regions in the tropics I will be focusing on for this project.
-2) Created plots for Precipitation vs CAPE to observe any direct relations.
+The primary goal of this research project is to investigate the key drivers of precipitation in the Tropics.
 
-Result - From the plots I found that ideal CAPE range for precipitation is between 500-1500 J/Kg. I decided to introduce CIN to the picture for the next few notebooks to study why there is a decrease in precipitation once the CAPE crosses 1500 J/Kg
+## Notebooks Overview
 
-Second Notebook
+### First Notebook
+
+#### Objectives
+
+In the initial notebook, the focus was on introducing and exploring two specific regions in the Tropics. The primary analysis aimed to understand the relationship between precipitation and Convective Available Potential Energy (CAPE). The specific objectives were as follows:
+
+- Introduce and define the regions of interest in the Tropics.
+- Create scatterplots to visually explore the relationship between precipitation and CAPE.
+- Lay the foundation for subsequent analysis and insights
+
+#### Key Findings
+
+The analysis in the first notebook yielded the following key findings:
+
+- Identified the ideal CAPE range for precipitation, which falls between 250 and 1500 J/Kg.
+- Noted a decrease in precipitation beyond 1500 J/Kg CAPE.
