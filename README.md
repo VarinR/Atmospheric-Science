@@ -16,7 +16,7 @@ In the initial notebook, the focus was on introducing and exploring two specific
 
 - Introduce and define the regions of interest in the Tropics.
 - Create scatterplots to visually explore the relationship between precipitation and CAPE.
-- Lay the foundation for subsequent analysis and insights
+- Lay the foundation for subsequent analysis and insights.
 
 #### Key Findings
 
