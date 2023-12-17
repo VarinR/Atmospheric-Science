@@ -24,3 +24,16 @@ The analysis in the first notebook yielded the following key findings:
 
 - Identified the ideal CAPE range for precipitation, which falls between 250 and 1500 J/Kg.
 - Noted a decrease in precipitation beyond 1500 J/Kg CAPE.
+
+### First Notebook (Tropics_2.ipynb)
+
+#### Objectives
+
+The goal of the second notebook was to examine how CAPE evolves during a top 5% precipitation period. The analysis involved producing a time series illustrating the evolution of CAPE and precipitation over an 18-day period, with day 9 representing the day of maximum precipitation.
+
+#### Key Findings
+
+Key findings from the second notebook include:
+
+- Observation that the maximum CAPE occurs before the maximum precipitation, indicating a lead time in CAPE changes.
+- Recognition that a significant portion of CAPE is utilized during the day of maximum precipitation, resulting in a noticeable dip in CAPE.
