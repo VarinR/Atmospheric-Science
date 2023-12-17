@@ -20,8 +20,6 @@ In the initial notebook, the focus was on introducing and exploring two specific
 
 #### Key Findings
 
-The analysis in the first notebook yielded the following key findings:
-
 - Identified the ideal CAPE range for precipitation, which falls between 250 and 1500 J/Kg.
 - Noted a decrease in precipitation beyond 1500 J/Kg CAPE.
 
@@ -33,7 +31,19 @@ The goal of the second notebook was to examine how CAPE evolves during a top 5% 
 
 #### Key Findings
 
-Key findings from the second notebook include:
-
 - Observation that the maximum CAPE occurs before the maximum precipitation, indicating a lead time in CAPE changes.
 - Recognition that a significant portion of CAPE is utilized during the day of maximum precipitation, resulting in a noticeable dip in CAPE.
+
+### Third Notebook (Tropics_3_cin-land.ipynb)
+
+#### Objectives
+
+- Define seasons for the grid cell, identifying three significant periods: first monsoon (MAM), dry season (JJA), and second monsoon (SON).
+- Create binned CAPE panel plots for precipitation and CIN to analyze the relationship between CAPE, CIN, and precipitation.
+
+#### Key Findings
+
+- Optimal precipitation conditions (exceeding 5 mm/day) with CAPE values of 1000 to 1750 J/kg.
+- Identified threshold lower than actual regional rainfall due to reanalysis data and averaging.
+- Elevated CIN suppresses precipitation, but positive CIN (80 to 140 J/kg) is crucial for triggering high-precipitation events.
+- Positive CIN condition often aligns with CAPE values close to 1500 J/kg.
