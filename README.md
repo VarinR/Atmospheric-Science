@@ -25,7 +25,7 @@ The analysis in the first notebook yielded the following key findings:
 - Identified the ideal CAPE range for precipitation, which falls between 250 and 1500 J/Kg.
 - Noted a decrease in precipitation beyond 1500 J/Kg CAPE.
 
-### First Notebook (Tropics_2.ipynb)
+### Second Notebook (Tropics_2.ipynb)
 
 #### Objectives
 
