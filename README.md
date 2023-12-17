@@ -2,6 +2,14 @@
 
 This repository contains an independent research project conducted under the mentorship of Dr. Travis O'Brien, focusing on the study of precipitation drivers in the Tropics.
 
+## Table of Contents
+
+- [Project Goal](#project-goal)
+- [Notebooks Overview](#notebooks-overview)
+  - [First Notebook (Tropics_1.ipynb)](#first-notebook-tropics_1ipynb)
+  - [Second Notebook (Tropics_2.ipynb)](#second-notebook-tropics_2ipynb)
+  - [Third Notebook (Tropics_3_cin-land.ipynb)](#third-notebook-tropics_3_cin-landipynb)
+
 ## Project Goal
 
 The primary goal of this research project is to investigate the key drivers of precipitation in the Tropics.
