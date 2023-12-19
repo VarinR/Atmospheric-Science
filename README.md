@@ -91,7 +91,7 @@ Semester 1
    - Surface heating played a pivotal role in precipitation patterns, with optimal conditions (exceeding 5 mm/day) observed for CAPE values of 250 to 1000 J/kg during the second monsoon season.
    - Similar to over land, elevated CIN suppressed precipitation, but positive CIN (80 to 140 J/kg) was crucial for triggering high-precipitation events.
 
-The collective analysis underscores the intricate interplay between atmospheric instability, convective processes, and surface conditions.
+
 
 
 
