@@ -9,7 +9,7 @@ This repository contains an independent research project conducted under the men
   - [First Notebook (Tropics_1.ipynb)](#first-notebook-tropics_1ipynb)
   - [Second Notebook (Tropics_2.ipynb)](#second-notebook-tropics_2ipynb)
   - [Third Notebook (Tropics_3_cin-land.ipynb)](#third-notebook-tropics_3_cin-landipynb)
-  - [Fourth Notebook (Tropics_3_cin-land.ipynb)](#third-notebook-tropics_4_cin-oceanipynb)
+  - [Fourth Notebook (Tropics_3_cin-ocean.ipynb)](#third-notebook-tropics_4_cin-oceanipynb)
  - [Conclusion](#conclusion)
 
 ## Project Goal
